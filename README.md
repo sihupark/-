@@ -422,7 +422,7 @@ C<sub>i+1</sub> = (A+B)C<sub>i</sub> + AB
 ·2진 코드를 다른 코드로 바꿀 때 사용
 
 회로
-<img width="" height="" src="./pic/디코더 회로.png"></img>
+<img width="" height="" src="./pic/디코더_회로.png"></img>
 
 블록도
 입력선n => n*2<sup>n</sup> => 출력선 2<sup>n</sup>
